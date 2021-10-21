@@ -6,7 +6,7 @@ video conferencing platforms with state-of-the-art video quality and features.
 <hr />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/readme-img1.png" width="900" />
+<img src="https://github.com/Abhi6722/Toodle-Meet/blob/main/Assets/ss1.png" width="900" />
 </p>
 
 <hr />
