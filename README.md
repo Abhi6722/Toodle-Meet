@@ -25,7 +25,7 @@ And many more!
 
 ## Using Toodle Meet
 
-Using Jitsi Meet is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
+Using Toodle Meet is straightforward, as it's browser based. Head over to [toodlemeet.abhi6722.in](https://toodlemeet.abhi6722.in) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
 
 ## Running your own instance
 
