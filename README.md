@@ -29,7 +29,7 @@ Using Toodle Meet is straightforward, as it's browser based. Head over to [toodl
 
 ## Running your own instance
 
-If you'd like to run your own Toodle Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start) to get started.
+If you'd like to run your own Toodle Meet installation head over to the [handbook](https://github.com/Abhi6722/Toodle-Meet) to get started.
 
 We provide Debian packages and a comprehensive Docker setup to make deployments as simple as possible.
 Advanced users also have the possibility of building all the components from source.
@@ -42,18 +42,18 @@ If you like the branding capabilities of running your own instance but you'd lik
 to avoid dealing with the complexity of monitoring, scaling and updates, JaaS might be
 for you.
 
-[8x8 Jitsi as a Service (JaaS)](https://jaas.8x8.vc) is an enterprise-ready video meeting platform that allows developers, organizations and businesses to easily build and deploy video solutions. With Jitsi as a Service we now give you all the power of Jitsi running on our global platform so you can focus on building secure and branded video experiences.
+[Toodle Meet as a Service (Toodle)](https://github.com/Abhi6722/Toodle-Meet) is an enterprise-ready video meeting platform that allows developers, organizations and businesses to easily build and deploy video solutions. With Jitsi as a Service we now give you all the power of Jitsi running on our global platform so you can focus on building secure and branded video experiences.
 
 ## Documentation
 
-All the Toodle Meet documentation is available in [the handbook](https://jitsi.github.io/handbook/).
+All the Toodle Meet documentation is available in [the handbook](https://github.com/Abhi6722/Toodle-Meet).
 
 ## Security
 
-For a comprehensive description of all Toodle Meet's security aspects, please check [this link](https://jitsi.org/security).
+For a comprehensive description of all Toodle Meet's security aspects, please check [this link](https://github.com/Abhi6722/Toodle-Meet).
 
 For a detailed description of Toodle Meet's End-to-End Encryption (E2EE) implementation,
-please check [this link](https://jitsi.org/e2ee-whitepaper/).
+please check [this link](https://github.com/Abhi6722/Toodle-Meet).
 
 For information on reporting security vulnerabilities in Toodle Meet, see [SECURITY.md](./SECURITY.md).
 
