@@ -27,29 +27,16 @@ And many more!
 
 Using Jitsi Meet is straightforward, as it's browser based. Head over to [meet.jit.si](https://meet.jit.si) and give it a try. It's anonymous, scalable and free to use. All browsers are supported! 
 
-Using mobile? No problem, you can either use your mobile web browser or our fully-featured
-mobile apps:
-
-| Android | Android (F-Droid) | iOS |
-|:-:|:-:|:-:|
-| [<img src="resources/img/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=org.jitsi.meet) | [<img src="resources/img/f-droid-badge.png" height="50">](https://f-droid.org/en/packages/org.jitsi.meet/) | [<img src="resources/img/appstore-badge.png" height="50">](https://itunes.apple.com/us/app/jitsi-meet/id1165103905) |
-
-If you are feeling adventurous and want to get an early scoop of the features as they are being
-developed you can also sign up for our open beta testing here:
-
-* [Android](https://play.google.com/apps/testing/org.jitsi.meet)
-* [iOS](https://testflight.apple.com/join/isy6ja7S)
-
 ## Running your own instance
 
-If you'd like to run your own Jitsi Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start) to get started.
+If you'd like to run your own Toodle Meet installation head over to the [handbook](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start) to get started.
 
 We provide Debian packages and a comprehensive Docker setup to make deployments as simple as possible.
 Advanced users also have the possibility of building all the components from source.
 
 You can check the latest releases [here](https://jitsi.github.io/handbook/docs/releases).
 
-## Jitsi as a Service
+## Toodle as a Service
 
 If you like the branding capabilities of running your own instance but you'd like
 to avoid dealing with the complexity of monitoring, scaling and updates, JaaS might be
@@ -59,20 +46,20 @@ for you.
 
 ## Documentation
 
-All the Jitsi Meet documentation is available in [the handbook](https://jitsi.github.io/handbook/).
+All the Toodle Meet documentation is available in [the handbook](https://jitsi.github.io/handbook/).
 
 ## Security
 
-For a comprehensive description of all Jitsi Meet's security aspects, please check [this link](https://jitsi.org/security).
+For a comprehensive description of all Toodle Meet's security aspects, please check [this link](https://jitsi.org/security).
 
-For a detailed description of Jitsi Meet's End-to-End Encryption (E2EE) implementation,
+For a detailed description of Toodle Meet's End-to-End Encryption (E2EE) implementation,
 please check [this link](https://jitsi.org/e2ee-whitepaper/).
 
-For information on reporting security vulnerabilities in Jitsi Meet, see [SECURITY.md](./SECURITY.md).
+For information on reporting security vulnerabilities in Toodle Meet, see [SECURITY.md](./SECURITY.md).
 
 ## Contributing
 
-If you are looking to contribute to Jitsi Meet, first of all, thank you! Please
+If you are looking to contribute to Toodle Meet, first of all, thank you! Please
 see our [guidelines for contributing](CONTRIBUTING.md).
 
 <br />
