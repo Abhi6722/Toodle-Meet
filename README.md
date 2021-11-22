@@ -11,7 +11,7 @@ video conferencing platforms with state-of-the-art video quality and features.
 
 <hr />
 
-Amongst others here are the main features Jitsi Meet offers:
+Amongst others here are the main features Toodle Meet offers:
 
 * Support for all current browsers
 * Mobile applications
